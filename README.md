@@ -10,6 +10,7 @@ Simple react app on top of Petfinder API.
 
 ## To run app locally
  - clone app
+ - `cd adopt-pets`
  - run `yarn` or `npm` install
  - run `yarn dev` or `npm run dev` to start local server
  - visit `http://localhost:1234` in your browser.
